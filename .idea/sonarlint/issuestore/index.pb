@@ -13,3 +13,7 @@ T
 $contracts/property-verification.clar,9/2/92aedc8494904be11f2c1570671ab7c7affd1770
 S
 #tests/property-verification.test.ts,2/4/24ed03513bc4144786f1838c91c7ee0e72c40d8a
+U
+%contracts/maintenance-assignment.clar,3/c/3c71c007d6584d9f85a197f8e98959367a10317b
+T
+$tests/maintenance-assignment.test.ts,c/9/c9180a4b74665d757bee08e97fcd680189e83d11
